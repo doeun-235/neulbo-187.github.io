@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://neulbo-187.github.io/sitemap.xml
+Host: https://neulbo-187.github.io

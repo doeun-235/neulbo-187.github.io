@@ -1,12 +1,8 @@
 ---
-title: First Post, README
-date: 2018-11-06
+title: 안녕하세요 :)
+date: 2019-08-20
 tags:
   - blog
 ---
 
-기본적인 설정, 포스트 작성 예시는 Documents를 확인하세요.
-
-- [Documnets](https://github.com/junhobaik/junhobaik.github.io/wiki/Documents)
-- [Github Repository](https://github.com/junhobaik/junhobaik.github.io)
-- [Demo blog](https://junhobaik.github.io/)
+드디어 부로그를 만들었읍니다 :D. 야호! 앞으로 공부한 내용들을 올리려고 해요. Machine Learning, Python, C++, 수학 등에 관심있습니다.
